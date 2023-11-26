@@ -1,0 +1,12 @@
+header{
+    background: #3333;
+     margin: 50px;
+     height: 350px;
+
+}
+.box{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+            
+}
